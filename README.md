@@ -4,7 +4,9 @@ this shell script is to set the wallpaper without editing the config file everyt
 # To install this
 ### step 1:
 first create a wallpaper folder in home directory or use this command 
-```mkdir ~/wallpaper```
+```
+mkdir ~/wallpaper
+```
 
 ### Step 2:
 clone the file in wallpaper folder
